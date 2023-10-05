@@ -1,0 +1,12 @@
+{
+  "name": "modules_assignment",
+  "version": "1.0.0",
+  "description": "/ <h1>This is a readme file.</h1> <ul> <li>My name is Saksham Aggarwal.</li> <li>THis is a repository for my Assignment.</li> <li>I love coding.</li>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
