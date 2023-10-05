@@ -1,7 +1,7 @@
 /
 <h1>This is a readme file.</h1>
 <ul>
-<li style='color:yellow;'>My name is Saksham Aggarwal.</li>
+<li>My name is Saksham Aggarwal.</li>
 <li>THis is a repository for my Assignment.</li>
 <li>I love coding.</li>
 
